@@ -1,0 +1,4 @@
+3
+t t 4 1
+tejas mundhe 200 2
+suii ronaldo 1000 3

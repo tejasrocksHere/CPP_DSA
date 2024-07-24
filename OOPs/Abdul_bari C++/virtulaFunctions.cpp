@@ -2,7 +2,7 @@
 using namespace std;
 class basicCar{
 public:
-  void run(){
+ virtual void run(){
         cout<<"running like a old car"<<endl;
     }
 };
@@ -14,7 +14,7 @@ public:
 };
 class autoRickshaw: public basicCar{
 public:
- void run(){
+ void run() {
         cout<<"running like a new autoRickshaw"<<endl;
     }
 };
